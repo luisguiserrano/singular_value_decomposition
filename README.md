@@ -1,7 +1,7 @@
 # singular_value_decomposition
 
 This is the repo for the video "Singular value decomposition and applications to image compression".
-https://youtu.be/Ucq0mwWCDoE
+https://youtu.be/DG7YTlGnCEo
 
 Notebooks:
 
